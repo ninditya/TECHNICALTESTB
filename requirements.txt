@@ -1,0 +1,5 @@
+fastapi
+langgraph
+pydantic
+qdrant-client
+uvicorn
